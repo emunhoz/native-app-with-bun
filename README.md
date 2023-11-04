@@ -1,4 +1,4 @@
-<h1 align="center">Native app using React Native with Bun!</h1>
+<h1 align="center">React Native app with GraphQL (Apollo), Typescript, Expo and Bun!</h1>
 
 ## ⚠️ Requirements
 
